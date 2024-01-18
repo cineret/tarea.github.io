@@ -1,0 +1,44 @@
+.dulceria{
+	background-color: #F0A1E6;
+	font-size: 300%;
+	font-family: Elephant;
+
+}
+.menu{
+
+	width: 300px;
+}
+
+.menu a{
+	background-color: #F9CCF3;
+	color: white;
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+}
+.menu a:hover{
+	background-color: #E5D7DE ;
+}
+.menu a.activo{
+	background-color: #F0F1E4  ;
+	color: black;
+}
+.si{
+	background-color: #F0F1E4 ;
+	font-size: 100%;
+	font-family: Elephant;
+}
+.ok{
+	background-color: #FAFFBD;
+	font-size: 200%;
+}
+.d{
+	background-color: #F9CCF3;
+	font-size: 200%;
+	font-family: Elephant;
+
+}
+.cire{
+	background-color: #F0A1E6;
+	font-size: 200%;
+}
